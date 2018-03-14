@@ -1,2 +1,4 @@
-# udacity-intro-to-html-and-css-2018
-Intro to HTML and CSS (from Udacity)
+# Udacity - Intro to HTML and and CSS (2018)
+This repo contains solved exercises for Udacity's [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud001) course.
+
+
